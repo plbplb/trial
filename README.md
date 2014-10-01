@@ -1,4 +1,4 @@
 trial
 =====
 
-My test repository
+My test repository, for working with others
